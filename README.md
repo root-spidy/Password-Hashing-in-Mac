@@ -9,7 +9,7 @@ This Python script allows users to extract password hashes from macOS user accou
 
 ### Project Overview
 
-The Mac Password Hash Extractor is designed to help users extract password hashes from macOS user accounts. This can be useful for security professionals and researchers who need to analyze password strength or recover lost passwords. The script prompts for the root password and executes a series of commands to retrieve the necessary information.
+The Mac Password Hash Extractor is designed to help users extract password hashes from macOS user accounts. This can be useful for security professionals and researchers who need to analyze password strength. The script prompts for the root password and executes a series of commands to retrieve the necessary information.
 Installation
 To use this script, ensure you have Python 3.x installed on your macOS system. You will also need access to the terminal.
 
