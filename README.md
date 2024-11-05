@@ -15,7 +15,7 @@ To use this script, ensure you have Python 3.x installed on your macOS system. Y
 
 Clone the repository:
 
-    git clone https://github.com/yourusername/mac-password-hash-extractor.git
+    https://github.com/root-spidy/Password-Hashing-in-Mac.git
 
     cd mac-password-hash-extractor
 
