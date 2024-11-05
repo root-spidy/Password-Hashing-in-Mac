@@ -17,7 +17,7 @@ Clone the repository:
 
     https://github.com/root-spidy/Password-Hashing-in-Mac.git
 
-    cd mac-password-hash-extractor
+cd mac-password-hash-extractor
 
 Ensure you have the necessary permissions to run the script.
 
